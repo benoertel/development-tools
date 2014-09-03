@@ -1,0 +1,4 @@
+# xdebug
+
+[xdebug]
+zend_extension=/usr/lib/php/extensions/no-debug-non-zts-20100525/xdebug.so
