@@ -48,6 +48,7 @@ uncomment
 
 
 ## vhost
-
+```sh
 vi /etc/hosts
 ::1     mkpt.local
+```
