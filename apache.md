@@ -25,13 +25,14 @@ httpd -v
 Check that you have a “username.conf” filed under:
 /etc/apache2/users/
 
+```sh
 <Directory "/Users/benjamin/Sites/">
    Options Indexes MultiViews
    AllowOverride All
    Order allow,deny
    Allow from all
 </Directory>
-
+```
 
 ## Configure httpd.conf
 
